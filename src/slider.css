@@ -1,6 +1,15 @@
 .slider
 {
   display: inline-block;
+  margin: 0px 20px;
+}
+.txt
+{
+  font-family: 'Lobster', cursive;
+  border-radius: 10px;
+  padding: 5px 10px;
+  background-color: pink;
+  box-shadow: 3px 3px 8px rgba(255,192,203,0.5);
 }
 .slider-container
 {
